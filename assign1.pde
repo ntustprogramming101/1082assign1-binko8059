@@ -18,12 +18,12 @@ void setup() {
 	size(640, 480, P2D);
 	// Enter Your Setup Code Here
   //load the images
-  bg = loadImage("../img/bg.jpg");
-  groundhog = loadImage("../img/groundhog.png");
-  life = loadImage("../img/life.png");
-  robot = loadImage("../img/robot.png");
-  soil = loadImage("../img/soil.png");
-  soldier = loadImage("../img/soldier.png");
+  bg = loadImage("img/bg.jpg");
+  groundhog = loadImage("img/groundhog.png");
+  life = loadImage("img/life.png");
+  robot = loadImage("img/robot.png");
+  soil = loadImage("img/soil.png");
+  soldier = loadImage("img/soldier.png");
  
   imageMode(CORNER);
   
