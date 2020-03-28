@@ -61,7 +61,7 @@ void draw() {
     strokeWeight(5);
     stroke(255,255,0);
     //sun's body
-    circle(width-sun,sun,sunDiameter);
+    ellipse(width-sun,sun,sunDiameter,sunDiameter);
   
   //draw the grass
   noStroke();
